@@ -1,2 +1,2 @@
 # Auto-Pipeline-Extraction
-PhD Proposal (Automatic Pipeline Extraction with Data Lineage)
+PhD Proposal (Automating Data Lineage and Pipeline Extraction)
